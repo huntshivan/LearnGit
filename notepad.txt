@@ -1,1 +1,2 @@
 This is first line of text.
+This is second line of text after adding to git (staging) and not commit.
